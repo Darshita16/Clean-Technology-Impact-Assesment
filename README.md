@@ -44,6 +44,8 @@ Install required libraries:
 - Some countries are leading in CCUS adoption, while others are lagging.
 
   ![image](https://github.com/user-attachments/assets/9ffd9aad-79bc-4abf-8328-f7edf921acd4)
+  ![image](https://github.com/user-attachments/assets/86a4a1d3-4dce-4231-b7e8-92a6335d49d3)
+
 
 
 📌 Future Improvements
