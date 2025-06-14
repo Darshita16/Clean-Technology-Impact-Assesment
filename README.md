@@ -40,6 +40,9 @@ Install required libraries:
 - Full-chain CCUS projects provide the highest GHG reduction potential.
 - Some countries are leading in CCUS adoption, while others are lagging.
 
+  ![image](https://github.com/user-attachments/assets/9ffd9aad-79bc-4abf-8328-f7edf921acd4)
+
+
 📌 Future Improvements
 
 - Incorporate machine learning models to predict CCUS adoption trends.
