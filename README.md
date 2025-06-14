@@ -22,10 +22,13 @@ This project analyzes the impact of Carbon Capture, Utilization, and Storage (CC
 
 📈 Analysis & Visualizations
 
-- Bar Chart: Top 10 countries with the most CCUS projects.
-- Pie Chart: Distribution of CCUS project types (Capture, CCU, Full Chain).
+- Clustered Bar Chart: Top 10 countries with the most CCUS projects.
+- Pie Chart: Distribution of CCUS project Status.
 - Line Chart: Trend of CCUS adoption over time.
 - GHG Reduction Estimation: Projected CO₂-equivalent reduction by technology type.
+- Donut Chart: Count of Projects by Sector
+- Bar Chart: Distribution of Projects by Country and Year
+- Pie Chart: CCUS Projects by Region
 How to Run the Analysis
 
 Install required libraries:
